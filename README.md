@@ -4,7 +4,7 @@ A [React.js](https://reactjs.org) bookshelf app that allows you to select and ca
 ## Setup
 1. Clone the repository
 ```
-git clone https://github.com/alexissel/reactnd-project-myreads myreads
+git clone https://github.com/alexissel/reactnd-project-myreads.git myreads
 ```
 
 2. Install all project dependencies
